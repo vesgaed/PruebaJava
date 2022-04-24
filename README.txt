@@ -1,3 +1,4 @@
+#LEER MUY BIEN
 En este archivo proyecto se encuentra un codigo que permite encontrar la cantidad de dias habiles entre un rango de fechas. Se entiende que dias habiles son de lunes a viernes. Sabados, domingos y festivos no son dias habiles.
 
 El programa solo calcula dias habiles entre las fechas 1 de agosto del 2020 y 31 de agosto del 2021.
